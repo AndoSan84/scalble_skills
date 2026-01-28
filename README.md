@@ -83,4 +83,4 @@ passed, total = run_tests(skill_path, skills_root, agent_runner=my_agent_runner)
 
 ## License
 
-MIT
+Apache 2.0
