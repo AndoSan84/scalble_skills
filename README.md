@@ -80,7 +80,15 @@ def my_agent_runner(skill_path, input_prompt):
 
 passed, total = run_tests(skill_path, skills_root, agent_runner=my_agent_runner)
 ```
+## Background
 
+This project proposes extensions to the [Agent Skills specification](https://agentskills.io/specification) for dependency management and testing.
+
+See the full RFC: [RFC-001-dependencies-testing.md](rfc/RFC-001-dependencies-testing.md)
+
+Related discussions:
+- [#90 - Skill Relationships](https://github.com/agentskills/agentskills/issues/90)
+- [#46 - Versioning/Locking](https://github.com/agentskills/agentskills/issues/46)
 ## License
 
 Apache 2.0
