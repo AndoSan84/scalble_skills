@@ -1,6 +1,6 @@
 # RFC: Skill Dependencies and Testing Specification
 
-**Author:** Andrea Gasparro  
+**Author:** AndoSan84
 **Status:** Draft  
 **Created:** January 2026  
 **Target:** Agent Skills Specification v1.1
